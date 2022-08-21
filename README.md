@@ -27,7 +27,7 @@ If you have major coding issues with this bot, please join and ask for help.
 <div align="left"><img src="/assets/Play.png"></div>
 <div align="left"><img src="/assets/Volume.png"></div>
 <div align="left"><img src="/assets/Queue.png"></div>
-<div align="center"><img src="/assets/Stop.png"></div>
+<div align="left"><img src="/assets/Stop.png"></div>
 
 ## 🚀 | Deploy
 
