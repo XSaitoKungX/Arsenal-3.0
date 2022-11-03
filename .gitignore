@@ -110,3 +110,4 @@ db.json
 yarn.lock
 package-lock.json
 .idea/
+config.js
